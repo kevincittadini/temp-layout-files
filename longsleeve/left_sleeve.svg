@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Sleeve" width="100%" height="100%" viewBox="0 0 2447.32 2447.31" xmlns:printify="http://printify.com/adjuster"  printify:width="647.5200000000001" printify:height="647.5200000000001"><defs><image x="0" y="0" width="2447.32" height="2447.31" id="fabric-image"/><path d="M1224.15,3.45c452.23,0,368.45,797.95,368.45,797.95h0s-145.41,1569.95-150.64,1642.47h0s-435.63,0-435.63,0h0c-5.23-72.52-151.84-1642.47-151.84-1642.47h0S771.93,3.45,1224.15,3.45Z" id="fabric-0"/><clipPath id="fabric-0-clip"><use href="#fabric-0"/></clipPath><rect id="_left_sleeve-path" width="267.25" height="1780.06" fill="none" stroke-linecap="round" stroke-linejoin="round" transform=""/><clipPath><use stroke-width="2.6980000000000004mm" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#_left_sleeve-path"/></clipPath></defs>
+  <g id="color_first" fill-rule="nonzero" fill="#fff"><use href="#fabric-0"/><use clip-path="url(#fabric-0-clip)" href="#fabric-image"/>
+    
+    
+  <g clip-path="url(#_left_sleeve-clippath)" transform="translate(1090.53 552.45)"><svg id="placeholder_left_sleeve" width="267.25" height="1780.06" preserveAspectRatio="xMidYMid slice" viewBox="0 0 267.25 1780.06"><use stroke-width="2.6980000000000004mm" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#_left_sleeve-path" stroke="#ffffff"/><use stroke-width="2.6980000000000004mm" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#_left_sleeve-path" stroke="#000000" stroke-dasharray="5.396000000000001mm, 5.396000000000001mm"/></svg></g></g>
+  <g id="outlines">
+    <g id="outlines_colored">
+      <line id="detail" x1="995.88" y1="2332.52" x2="1452.43" y2="2332.52" fill="none" opacity=".5" stroke="#000" stroke-dasharray="10.42 5.21 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.08"/>
+      <path id="contour" d="M1224.15,3.45c452.23,0,368.45,797.95,368.45,797.95h0s-145.41,1569.95-150.64,1642.47h0s-435.63,0-435.63,0h0c-5.23-72.52-151.84-1642.47-151.84-1642.47h0S771.93,3.45,1224.15,3.45Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.89"/>
+    </g>
+  </g>
+</svg>
