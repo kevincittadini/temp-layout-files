@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Neck Label Inner" width="100%" height="100%" viewBox="0 0 1105.04 1105.04" xmlns:printify="http://printify.com/adjuster"  printify:width="292.3725" printify:height="292.3725"><defs><image x="0" y="0" width="1105.04" height="1105.04" id="fabric-image"/><path d="m1220.94,222.89l-366.14-85.82c-29.68-12.24-127.42,94.46-302.29,94.46-174.87,0-272.61-106.71-302.29-94.46L-115.9,222.89v1062.66h1336.84V222.89Z" id="fabric-0"/><clipPath id="fabric-0-clip"><use href="#fabric-0"/></clipPath><rect id="_necktag-path" width="377.86" height="377.86" fill="none" stroke-miterlimit="10" transform=""/><clipPath><use stroke-width="1.21821875mm" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#_necktag-path"/></clipPath></defs>
+  <g id="color_first" fill-rule="nonzero" fill="#fff"><use href="#fabric-0"/><use clip-path="url(#fabric-0-clip)" href="#fabric-image"/>
+    
+    
+  <g clip-path="url(#_necktag-clippath)" transform="translate(362.17 333.55)"><svg id="placeholder_necktag" width="377.86" height="377.86" preserveAspectRatio="xMidYMid slice" viewBox="0 0 377.86 377.86"><use stroke-width="1.21821875mm" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#_necktag-path" stroke="#ffffff"/><use stroke-width="1.21821875mm" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#_necktag-path" stroke="#000000" stroke-dasharray="2.4364375mm, 2.4364375mm"/></svg></g></g>
+  <g id="outlines">
+    <g id="outlines_colored">
+      <path id="stitch" d="m922.02,155.06c-15.73,13.95-49.33,41.44-97.63,68.87-60.35,34.27-156.51,75.12-271.87,75.12s-211.52-40.85-271.87-75.12c-48.4-27.48-82.03-55.02-97.76-68.99m-37.43,6.68l8.43,8.36c1.66,1.64,41.57,40.75,110.68,80.14,63.75,36.34,165.46,79.65,287.96,79.65s224.2-43.31,287.96-79.65c69.11-39.39,109.02-78.5,110.68-80.14l8.43-8.35" fill="none" opacity=".5" stroke="#000" stroke-dasharray="0 0 0 0 3.87 2 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".77"/>
+      <path id="detail" d="m919.52,152.23c-14.17,12.56-48.09,40.64-96.99,68.41-59.96,34.04-155.47,74.63-270.01,74.63s-210.05-40.58-270.01-74.63c-49.06-27.86-83.04-56.03-97.12-68.53" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.95"/>
+      <path id="contour" d="m1220.94,222.89l-366.14-85.82c-29.68-12.24-127.42,94.46-302.29,94.46-174.87,0-272.61-106.71-302.29-94.46L-115.9,222.89v1062.66h1336.84V222.89Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.44"/>
+      <path d="m963.93,162.64l-10.11,10.02c-1.68,1.66-41.98,41.13-111.47,80.74-64.15,36.56-166.51,80.14-289.83,80.14s-225.68-43.58-289.83-80.15c-69.49-39.61-109.79-79.08-111.47-80.74l-10.11-10.02" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.95"/>
+    </g>
+  </g>
+</svg>
